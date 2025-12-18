@@ -10,9 +10,9 @@
   Studying at: <b>Tarumanagara University</b>
 </p>
 
-🎮 Game & system enthusiast with a strong interest in full-stack development.
-💻 Curious learner with broad tech knowledge, focused on originality, clean systems, and visually unique projects.
-🎯 Quality-driven builder aiming for unique, polished, and visually appealing results.
+🎮 Game & system enthusiast with a strong interest in full-stack development <br>
+💻 Curious learner with broad tech knowledge, focused on originality, clean systems, and visually unique projects <br>
+🎯 Quality-driven builder aiming for unique, polished, and visually appealing results <br>
 <!--
 **Depper2/Depper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
