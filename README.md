@@ -1,5 +1,18 @@
-############################################# Hi there 👋 
+<h3 align="center">
+  UNDERGRADUATE INFORMATICS ENGINEERING STUDENT
+</h3>
 
+<p align="center">
+  --------------------------------------------
+</p>
+
+<p align="center">
+  Studying at: <b>Tarumanagara University</b>
+</p>
+
+🎮 Game & system enthusiast with a strong interest in full-stack development.
+💻 Curious learner with broad tech knowledge, focused on originality, clean systems, and visually unique projects.
+🎯 Quality-driven builder aiming for unique, polished, and visually appealing results.
 <!--
 **Depper2/Depper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
