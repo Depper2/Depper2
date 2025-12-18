@@ -1,12 +1,6 @@
-<h4 align="center">
-  UNDERGRADUATE INFORMATICS ENGINEERING STUDENT
-</h4>
-
 <p align="center">
-  --------------------------------------------
-</p>
-
-<p align="center">
+  <b>UNDERGRADUATE INFORMATICS ENGINEERING STUDENT</b><br>
+  --------------------------------------------<br>
   Studying at: <b>Tarumanagara University</b>
 </p>
 
