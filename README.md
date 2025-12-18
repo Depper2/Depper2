@@ -1,6 +1,6 @@
 <p align="center">
   <b>UNDERGRADUATE INFORMATICS ENGINEERING STUDENT</b><br>
-  --------------------------------------------<br>
+    ________________________________<br>
   Studying at: <b>Tarumanagara University</b>
 </p>
 
